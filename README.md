@@ -1,6 +1,6 @@
 # Billboard Advertisement Recommendation System
 
-The Billboard Advertisement Recommendation System is an intelligent and dynamic advertising platform that selects advertisements to be displayed on billboards based on real-time traffic and pedestrian demographics. The system employs computer vision, machine learning algorithms, and content-based filtering to analyze and understand the audience present at a given time and then display the most relevant advertisements.
+The Billboard Advertisement Recommendation System is an intelligent and dynamic advertising platform that selects advertisements to be displayed on billboards based on real-time traffic and pedestrian demographics. The system employs computer vision, machine learning algorithms, and content-based filtering to analyze and understand the audience present at a given time and then display the most relevant advertisements. The dataset is still not fully available and we are in the process of collecting data from various sources. We are using a hard-coded temporary dataset for the time being.
 
 ## Table of Contents
 1. [Features](#features)
